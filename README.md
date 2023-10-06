@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Aureltus"><img src="https://github.com/aureltus/aureltus/blob/master/devcard.svg" width="400" alt="Aureltus's Dev Card"/></a>
+
 <!--
 **aureltus/aureltus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
